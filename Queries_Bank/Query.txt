@@ -1,0 +1,99 @@
+Topics A = ['LSC31', 'LSC28', 'LSC38', 'MMM07', 'MMM05']
+
+Topics B = ['LSC26', 'LSC35', 'MMM04', 'MMM10', 'MMM06']
+
+Topics C = ['MMM03', 'MMM02', 'MMM08’, 'LSC48', 'LSC40']
+
+Topics D = ['MMM09', 'MMM01', 'LSC36', 'LSC29', 'LSC25']
+
+
+Dataset A
+
+[LSC31]
+
+Eating fishcakes, bread and salad after preparing my presentation in powerpoint. It must have been lunch time. There was a guy in a blue sweater. I think there were phones on the table. After lunch, I made a coffee.
+
+[LSC28]
+
+I remember a doll’s house, a white dolls house. There were other people there, and candles too, I remember candles. There was some nice village scene in front of a lake in the picture. It was a Saturday
+
+[LSC38]
+
+I was in my office taking a skype call on a Friday morning. I clearly remember a bright green background on my laptop and a large image of a man’s face on the screen. I had previously been having coffee in the Helix. I recall that it was a Friday.
+
+[MMM07]
+
+I was using my laptop in someone’s office. There were many cards hanging on a wall. There was a red jacket hanging on a door. There were many papers/badges stuck on the wall. It was noon. It was on Tuesday.
+
+[MMM05]
+
+There was a mix of fruits in a large bowl. There was a white square pillow behind it. A vase was in the scene, near the pillow.  There was a ladder at the back. It was at night time. It was in my house.
+
+
+Dataset B
+
+[LSC26]
+
+A red car beside a white house on a cloudy day. I had driven for over an hour to get here. It was a saturday in August and it was in the early afternoon.
+
+[LSC35]
+
+I was shopping for clothes in the early morning. I think I was in Ireland and I was looking for a shirt and a belt. I don’t think I bought anything. I went to a salon instead and waited for a haircut. Yeah, it was a Saturday.
+
+[MMM04]
+
+There was a person wearing a yellow jacket. He was carrying a bag. He was riding a bicycle in front of the big glass building. There was a man at the back. It was in the early morning. It was on Monday
+
+[MMM10]
+
+I was using my laptop in the Helix. My hand was typing on the keyboard. There was a headphone on the table beside the phone. There was a cup on the table also. I could see a plant. It was Friday morning.
+
+[MMM06]
+
+There was a big plant. There was a man near the plant. The man was wearing a suit (with no tie) and holding a cup. Another man carrying a bag was at the back. It was on Tuesday. Prior to this I was attending a presentation.
+
+
+Dataset C
+
+[MMM03]
+
+There was a man wearing a blue shirt. He was carrying a big red suitcase. There was another man behind him. They were walking out from an elevator. It was on Thursday. I was at an airport.
+
+[MMM02]
+
+I was eating a pizza. My hand was holding a pizza. There was a guy wearing a pink shirt talking to me. There was a black box on a table. It was on Friday morning. It happened at my workplace
+
+[MMM08]
+
+I was using my laptop with my hand clearly in the picture. There was a television on the wall. It was showing a football match. I could see the clock on the wall. I was lying on my couch at home. It was on Wednesday night.
+
+[LSC48]
+
+Drinking tea from a large black cup when I was visiting a family member. There were other people there also. I think there was a hen or a cock on the table. There was some kind of pie also. I don’t think I ate any pie though. It was a Saturday.
+
+[LSC40]
+
+There was car racing on TV. It was Formula 1 motor racing. I was at home with two other people on a Saturday. This was after going shopping.
+
+
+Dataset D
+
+[MMM09]
+
+I was having a meal with a woman in a restaurant. There was a vase on a table. There was also a candle on the table. A lot of food was on the table. It was in September. It was Thursday night.
+
+[MMM01]
+
+I was talking to a woman. She is holding a bottle.  There was a yellow bus and tables behind her. It was before noon. After that, I had a coffee with a guy in the Helix. It was on Tuesday.
+
+[LSC36]
+
+I was making coffee in the morning using a professional looking coffee machine. After making coffee, I was talking to someone. No it was a few people. I remember yellow doors behind them. After a few minutes, I went back to work. It was a Monday in Norway
+
+[LSC29]
+
+Catching my reflection in the bathroom mirror early on a Saturday morning when I was preparing to brush my teeth. There were pink wall tiles and I was wearing a white shirt. I had just finished watching some TV and then I drove somewhere.
+
+[LSC25]
+
+Find the time when I was looking at an old clock, with flowers visible. There was a lamp also, and a small blue monster (perhaps a long rabbit) watching me. Maybe there were two monsters. It was a Monday or a Thursday. I was at home and in a bedroom. 
