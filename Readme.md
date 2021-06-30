@@ -1,4 +1,6 @@
 # MMM2021 - Graph Index for Lifelog Moment Retrieval
+This is the repository of our **Graph-based Indexing and Retrieval of Lifelog Data** [paper](https://link.springer.com/chapter/10.1007/978-3-030-67835-7_22)
+
 There are 4 main steps
 1. Generate Scene Graph (SG) for lifelog images
 2. Embed each SG into 2 matrices
